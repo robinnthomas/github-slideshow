@@ -2,7 +2,7 @@
 
 *This text will be italic*
 _This will also be italic_
-
+:toilet:
 **This text will be bold**
 __This will also be bold__
 
